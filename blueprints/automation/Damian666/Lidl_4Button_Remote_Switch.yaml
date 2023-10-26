@@ -10,8 +10,8 @@ blueprint:
       selector:
         device:
           integration: zha
-          manufacturer: _TYZB01_bngwdjsr
-          model: TS1001
+          manufacturer: Lidl
+          model: FB21-001
           multiple: false
     button_one_short_press:
       name: Single Press

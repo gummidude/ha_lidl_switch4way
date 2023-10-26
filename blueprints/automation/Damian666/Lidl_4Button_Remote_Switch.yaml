@@ -9,10 +9,6 @@ blueprint:
       description: Select the Lidl 4Button Remote Switch to use
       selector:
         device:
-          integration: mqtt
-          manufacturer: _TYZB01_hww2py6b
-          model: TS1001
-          multiple: false
     button_one_short_press:
       name: Single Press
       description: Action to run on button 1 single press
